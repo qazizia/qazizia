@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @qazizia
-- 👀 I’m interested in AI and Machine Learning to solve unsolved problems for humanity
+- 👀 I’m interested in Digital Systems Design, AI, and Machine Learning to solve unsolved problems for humanity
 - 🌱 I’m currently learning Cartesian Genetic Programming
-- 💞️ I’m looking to collaborate on application of AI and Machine Learning 
+- 💞️ I’m looking to collaborate on the application of AI and Machine Learning 
 - 📫 How to reach me zia_comsian@yahoo.com
 
 <!---
